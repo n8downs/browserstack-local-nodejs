@@ -2,8 +2,8 @@
   "publishConfig": {
     "registry": "https://artifactory.twitter.biz/api/npm/js-releases-local"
   },
-  "name": "browserstack-local-twitter-fork",
-  "version": "1.4.0",
+  "name": "browserstack-local",
+  "version": "1.4.0-twitter-fork.1",
   "description": "Nodejs bindings for BrowserStack Local",
   "engine": "^0.10.44",
   "main": "index.js",
